@@ -85,9 +85,6 @@ listOf(configurations.runtimeClasspath, configurations.testRuntimeClasspath).for
     }
 }
 
-// Add an access tranformer
-tasks.deobfuscateMergedJarToSrg.configure {accessTransformerFiles.from("src/main/resources/dartcraftReloaded_at.cfg")}
-
 // Dependencies
 repositories {
     maven {
