@@ -3,7 +3,7 @@
   "modid": "gcg",
   "name": "Galacticraft Gravity",
   "description": "Removes weird gravity on GC space stations to make them playable",
-  "version": "1.0",
+  "version": "1.1",
   "mcversion": "1.12.2",
   "url": "https://github.com/flyingperson23/GalacticraftGravity",
   "updateUrl": "",

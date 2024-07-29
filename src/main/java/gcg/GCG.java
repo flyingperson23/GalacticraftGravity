@@ -5,7 +5,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = "gcg", name = "Galacticraft Gravity", version = "1.0", dependencies = "required: galacticraftcore")
+@Mod(modid = "gcg", name = "Galacticraft Gravity", version = "1.1", dependencies = "required: galacticraftcore")
 public class GCG {
 
     @Mod.EventHandler

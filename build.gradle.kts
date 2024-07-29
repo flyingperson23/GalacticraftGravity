@@ -11,7 +11,7 @@ plugins {
 
 // Project properties
 group = "gcg"
-version = "1.0"
+version = "1.1"
 
 // Set the toolchain version to decouple the Java we run Gradle with from the Java used to compile and run the mod
 java {
